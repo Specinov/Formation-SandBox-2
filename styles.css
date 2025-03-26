@@ -7,10 +7,6 @@ body {
     background-size: cover;
 }
 
-#logo{
-    width: 110px!important;
-}
-
 .navbar a {
     color: #000;
 }
@@ -30,11 +26,6 @@ body {
 .nav-item:hover .nav-link, .nav-item:active .nav-link, .nav-item:focus .nav-link{
     font-weight: 700!important;
     color: #518065!important;
-}
-
-.carousel-inner img {
-    width: 100%;
-    height: 100%;
 }
 
 .carousel-title {
