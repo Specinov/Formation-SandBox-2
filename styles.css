@@ -13,7 +13,6 @@ body {
 
 .nav-item .nav-link{
     color: #5a5e67!important;
-    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"!important;
     font-size: 1rem!important;
     font-weight: 500!important;
 }
@@ -38,7 +37,6 @@ body {
     font-weight: bold;
     text-align: center;
     z-index: 20;
-    font-family: 'Lato', sans-serif!important;
     font-weight: 800!important;
 }
 
@@ -71,7 +69,6 @@ body {
 }
 
 .display-4{
-    font-family: 'Lato', sans-serif!important;
     font-weight: 600!important;
 }
 
@@ -142,7 +139,6 @@ body {
 }
 .product h2
 {
-    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
     color: #518065;
     font-size: 35px;
     text-align: center;
@@ -207,7 +203,6 @@ body {
 }
 .keypoint h2
 {
-    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
     color: rgb(92, 0, 47);
     font-size: 35px;
     text-align: center;
@@ -222,7 +217,6 @@ body {
     color: rgb(37, 0, 19);
     font-size:17px;
     text-align: left;
-    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
     box-shadow: 0px 3px 20px 0px rgba(0,0,0,0.2);
 }
 
@@ -238,7 +232,6 @@ body {
 }
 .team h2
 {
-    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; 
     color: rgb(92, 0, 47);
     font-size: 35px;
     text-align: center;
@@ -258,11 +251,9 @@ body {
     background-size:cover;
     padding: 50px;
     text-align: center;
-    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; 
 }
 .feed h2
 {
-    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; 
     color: white;
     font-size: 35px;
     text-align: center;
